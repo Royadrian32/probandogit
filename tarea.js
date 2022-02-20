@@ -75,7 +75,6 @@ module.exports = {
         let resultado = tareas.filter(tarea => {
             return tarea.descripcion.toLocaleLowerCase().includes(keyword.toLocaleLowerCase())
         })
-
         mostrarTareas(resultado);
         return null
     }

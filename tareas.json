@@ -21,7 +21,7 @@
     },
     {
        "id": 1644326736311,
-       "descripcion": "Aprender Sequelize",
+       "descripcion": "Aprender CSS",
        "estado": "pendiente"
     },
     {
@@ -33,7 +33,11 @@
        "id": 1644411372494,
        "descripcion": "Aprender React",
        "estado": "pendiente"
-    },
+    },{
+      "id": 1644411372488,
+      "descripcion": "Aprender html",
+      "estado": "pendiente"
+   },
     {
        "id": 1644413362458,
        "descripcion": "Aprender MongoDB",
